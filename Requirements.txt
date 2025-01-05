@@ -1,0 +1,13 @@
+*Python - 3.12
+
+*Pandas - Latest
+pip install pandas
+
+*Numpy - Latest
+pip install numpy
+
+*Seaborn - Latest
+pip install seaborn
+
+*Matplotlib - Latest
+pip install matplotlib
